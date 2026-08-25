@@ -49,7 +49,7 @@ cities, months, and days of the week.
 
 ## Dashboard Preview
 
-![Motorola Mobile Sales Dashboard](Dashboard/Mobile_Sales_Dashboard.png)
+![Motorola Mobile Sales Dashboard](Mobile_Sales_Dashboard.png)
 
 ## Project Structure
 
